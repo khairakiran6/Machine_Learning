@@ -4,22 +4,20 @@ This repository contains implementations of various Machine Learning algorithms 
 
 Features
 
-Implementation of multiple ML algorithms
+•	Implementation of multiple ML algorithms
 
-REST API built using Flask for model inference
+•	REST API built using Flask for model inference
 
-Preprocessing and feature engineering scripts
+•	Preprocessing and feature engineering scripts
 
-Instructions for running the project locally and deploying it on the cloud
-Poetry for dependency management
+•	Instructions for running the project locally and deploying it on the cloud
+•	Poetry for dependency management
 
 Installation
 
 Clone the repository:
-
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
 Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
@@ -36,8 +34,6 @@ poetry shell
 Install dependencies using Poetry:
 
 poetry install
-
-Activate the virtual environment:
 
 Usage
 
